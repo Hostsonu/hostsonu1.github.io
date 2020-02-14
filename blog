@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>You are being redirected to my Blog !</title>
+      <meta http-equiv = "refresh" content = "0;url=https://medium.com/@Hostsonu" />
+   </head>
+   <body>
+      <center><h1>You are being redirected to my Blog !</h1></center>
+   </body>
+</html>
